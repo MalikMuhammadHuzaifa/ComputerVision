@@ -1,3 +1,6 @@
+# Computer Vision Mini-Project Assignment
+# Project: IMAGE FILTER AND ENHANCHER
+
 import cv2 
 import streamlit as st 
 import numpy as np 
