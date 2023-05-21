@@ -1,6 +1,6 @@
 # ComputerVision
 Computer Vision Assignment (Mini-Project)
-Sir Sandar Ali Khuwaja
+Sir Sandar Ali Khowaja
 Dept. Information Technology (Evening)
 
 3 Students Group:
